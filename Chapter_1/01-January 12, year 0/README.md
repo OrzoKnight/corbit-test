@@ -11,18 +11,14 @@ So happy new year, happy new age.
 
 ## Notes
 
-### From: Sam Formacek, Marketing Chief
-
+**From: Sam Formacek, Marketing Chief**  
 We understand what Cornelius is trying to do, but the tone is unprofessional and, frankly uninspired. Please revise.
 
-### From: Office of Cornelius Akbrand
-
+**From: Office of Cornelius Akbrand**  
 Cornelius has final say. Deliver as is.
 
-### From: Sam Formacek, Marketing Chief
-
+**From: Sam Formacek, Marketing Chief**  
 No. Have Cornelius see me.
 
-### From: Cornelius Akbrand
-
+**From: Cornelius Akbrand**  
 Sam, please deliver the message. Thomas and I are not changing the voice and tone of CorBit just because we've gone "global." Let's all discuss this soon. 

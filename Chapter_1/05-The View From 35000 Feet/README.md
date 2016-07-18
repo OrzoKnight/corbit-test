@@ -1,4 +1,4 @@
-# The View from 36,000 Feet
+# The View from 35,000 Feet
 *Selection from The Arc Weekly*
 
 I am writing this as I look out my window. The vastness of space fills half my view, and the starry darkness beautifully frames the slight curvature of my birth planet, Earth, as it fills the other half.

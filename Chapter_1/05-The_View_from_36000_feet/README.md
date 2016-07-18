@@ -11,4 +11,6 @@ My views changed somewhat two years later, when CorBit Health announced their re
 
 The reason for the history lesson is this: I will not soon forget what CorBit did for humanity in the recent past (nor should any of us); yet, even as I am thankful on a daily basis for my very life, I remain cautious and vigilant. Something's going on in the "maintenance areas," all of which are off-limits to us residents. People who wander into these areas go missing for hours, then reappear, denying it ever happened. What did they see?
 
-More to come. for now, I can only offer you this advice: Remain cautious and vigilant like me. 
+More to come. For now, I can only offer you this advice: Remain cautious and vigilant like me.
+
+__Yatta__

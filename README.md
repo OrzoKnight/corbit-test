@@ -1,3 +1,5 @@
+<img src="https://orzoknight.github.io/corbit-global/img/corbit-global-logo-white.svg">
+
 Hello, {{ resident.firstName }}!
 
 You made it! We want to be the first ones to congratulate you on surviving the apocalypse. CorBit Global is happy to have you onboard the {{ resident.vessel.vesselName }}, and our number one goal is to make you feel welcome and comfortable in your new home. We hope we've accomplished this goal.
@@ -18,7 +20,7 @@ We are currently holding a high Earth orbit at around 35,000 kilometers above th
 
 In the next few days, we hope your life will begin to resemble normalcy. You are scheduled to begin your job at {{ resident.occupationPrimary.workLocation }} as {{ resident.occupationPrimary }} on {{ resident.occupationPrimary.startDate }} at 9am sharp, like everybody else on the {{ resident.vessel.vesselName }}. That should give you a few days to get settled and ready to start a new life.
 
-### Once again... 
+### Once again...
 
 Thank you for putting your life, and the lives of your loved ones, in CorBit Global's hands.
 

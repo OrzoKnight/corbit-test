@@ -1,4 +1,6 @@
-## CorBit Global - Internal Memo
+<img width="200" src="https://orzoknight.github.io/corbit-global/img/corbit-security-logo.svg">  
+<img width="200" src="https://orzoknight.github.io/corbit-global/img/corbit-security-secure-memo.svg">
+<br>
 
 TO: All Security Personnel  
 FROM: Jonathon Fitztorvalds, Chief of Security  

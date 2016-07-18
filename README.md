@@ -13,7 +13,7 @@ status:00_undelivered
 
 Hello, {{ resident.firstName }}!
 
-You made it! We want to be the first ones to congratulate you on surviving the apocalypse. CorBit Global is happy to have you onboard the {{ resident.vessel.vesselName }}, and our number one goal is to make you feel welcome and comfortable in your new home. We hope we've accomplished this goal.
+You made it! We want to be the first ones to congratulate you on surviving the apocalypse. CorBit Global is happy to have you onboard the {{ resident.vessel.vesselName }}. Our number one goal is to make you feel welcome and comfortable in your new home. We hope we've accomplished that!
 
 By now you have already been assigned a {{ resident.dwelling.type }} in the {{ resident.dwelling.district }} district. We're sure you're going to love it there! The representative for your district is {{ resident.dwelling.district.representative.firstName }}. Make sure you say hi at the next Town Hall meeting. {{ resident.dwelling.district.representative.firstName}}'s contact information has been loaded into your home's digital control panel, in case you need to get in touch.
 

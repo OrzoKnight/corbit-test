@@ -1,7 +1,16 @@
+``` 
+err:a000z442a1213 logic error or missing database no such table
+sent:070001142133
+to:general_pop_cbv001
+status:00_undelivered
+```
+
 <br>
 <p align="center">
-<img width="250" src="https://orzoknight.github.io/corbit-global/img/corbit-global-logo-white.svg">
+<img width="350" src="https://orzoknight.github.io/corbit-global/img/corbit-global-logo-white.svg">
 </p>
+<br>
+<hr>
 <br>
 
 Hello, {{ resident.firstName }}!

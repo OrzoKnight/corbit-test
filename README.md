@@ -7,7 +7,7 @@ status:00_undelivered
 
 <br>
 <p align="center">
-<img width="200" src="https://orzoknight.github.io/corbit-global/img/corbit-global-logo-white.svg">
+<img width="200" src="https://orzoknight.github.io/corbit-global/img/corbit-global-msg-system.svg">
 </p>
 <br>
 

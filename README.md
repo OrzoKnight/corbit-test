@@ -1,4 +1,4 @@
-![CorBit Global](https://orzoknight.github.io/corbit-global/img/corbit-global-logo-white.svg | width=250)
+<img width="250" src="https://orzoknight.github.io/corbit-global/img/corbit-global-logo-white.svg">
 
 Hello, {{ resident.firstName }}!
 

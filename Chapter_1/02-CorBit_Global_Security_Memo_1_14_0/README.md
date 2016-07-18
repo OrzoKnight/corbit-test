@@ -1,3 +1,7 @@
+<img width="200" src="https://orzoknight.github.io/corbit-global/img/corbit-security-logo.svg">  
+<img width="180" src="https://orzoknight.github.io/corbit-global/img/corbit-security-secure-memo.svg">
+<br>
+
 ## CorBit Global - Internal Memo
 
 TO: All Security Personnel  

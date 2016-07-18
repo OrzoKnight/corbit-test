@@ -2,7 +2,7 @@
 
 TO: All Security Personnel  
 FROM: Jonathon Fitztorvalds, Chief of Security  
-DATE: June 14, Year 0  
+DATE: Jan 14, Year 0  
 SUBJECT: Residents NOT ALLOWED in restricted areas
 
 PRIORITY: URGENT

@@ -1,6 +1,6 @@
-TO: CorBit Global Exec Group
-FROM: Elias Krumpf, Chief PR Strategiest
-DATE: Jan 19, Year 0  
+TO: CorBit Global Exec Group  
+FROM: Elias Krumpf, Chief PR Strategiest  
+DATE: Jan 19, Year 0    
 SUBJECT: Did you read Yatta's column?
 
 If you haven't had a chance, I highly recommend it. You can't miss it, it's fucking everywhere.
